@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://antoru-3-column-preview-card-componen.netlify.app/](https://antoru-3-column-preview-card-componen.netlify.app/)
+- Live Site URL: [https://antoru.github.io/3-column-preview-card-component-react/](https://antoru.github.io/3-column-preview-card-component-react/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 Project hosted for free, thanks to:
 
-- [Netlify](https://www.netlify.com/)
+- [Github pages](https://pages.github.com/)
 
 ## Author
 
