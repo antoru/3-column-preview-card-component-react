@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3-column-preview-card-component-react/static/css/main.bc79a42d.css",
+    "main.js": "/3-column-preview-card-component-react/static/js/main.7f30ff32.js",
+    "index.html": "/3-column-preview-card-component-react/index.html",
+    "main.bc79a42d.css.map": "/3-column-preview-card-component-react/static/css/main.bc79a42d.css.map",
+    "main.7f30ff32.js.map": "/3-column-preview-card-component-react/static/js/main.7f30ff32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc79a42d.css",
+    "static/js/main.7f30ff32.js"
+  ]
+}
